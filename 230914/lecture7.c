@@ -2,7 +2,7 @@
 
 int main(void)
 {
-	int count, hap = 0;
+	/*int count, hap = 0;
 	
 	for (count = 1; count <= 10; count++) {
 		if (count % 2 == 1)
@@ -10,7 +10,20 @@ int main(void)
 		printf("%d까지의 홀수의 합은 %d이다.", count, hap);
 	}
 
-	printf("hap=%d\n", hap);
+	printf("hap=%d\n", hap);*/
+
+	int count, hap = 0;
+
+	/*for (count = 1; count <= 10; count++) {
+		if (count % 2 == 1) {
+			hap += count;
+			printf("hap=%d,count=%d\n", hap, count);
+
+		}
+		printf("%d\n", hap);
+	}*/
+
+	
 
 
 	return 0;
